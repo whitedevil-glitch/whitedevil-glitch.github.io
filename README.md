@@ -1,2 +1,2 @@
 # whitedevil-glitch.github.io
-portfolio-website
+portfolio work in progress
